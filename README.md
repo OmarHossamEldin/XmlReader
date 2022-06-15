@@ -7,7 +7,8 @@
 
  use Reneknox\XmlReader\Reader;
  
- XmlReader::read($this->file);
+ $file = 'example.xml';
+ XmlReader::read($file);
 ```
 ## Authors
 - Omar Hossam Eldin Kandil
