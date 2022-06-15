@@ -5,7 +5,7 @@
 ```php
 <?php
 
-use Reneknox\XmlReader\Reader;
+use Reneknox\XmlReader\Reader\XmlReader;
  
 $file = 'example.xml';
 $xml = XmlReader::read($file);
