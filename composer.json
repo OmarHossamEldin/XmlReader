@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Whmcs\\XmlReader\\": "src/"
+            "Reneknox\\XmlReader\\": "src/"
         }
     },
     "authors": [

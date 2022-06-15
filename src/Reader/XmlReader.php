@@ -1,6 +1,6 @@
 <?php
 
-namespace Whmcs\XmlReader\Reader;
+namespace Reneknox\XmlReader\Reader;
 
 use SimpleXMLElement;
 

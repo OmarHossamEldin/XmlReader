@@ -1,9 +1,9 @@
 <?php
 
-namespace Whmcs\XmlReader\Reader;
+namespace Reneknox\XmlReader\Reader;
 
-use Whmcs\XmlReader\Exceptions\NotSupportedFileException;
-use Whmcs\XmlReader\Exceptions\FileNotFoundException;
+use Reneknox\XmlReader\Exceptions\NotSupportedFileException;
+use Reneknox\XmlReader\Exceptions\FileNotFoundException;
 
 class File
 {

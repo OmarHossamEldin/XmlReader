@@ -1,6 +1,6 @@
 <?php
 
-namespace Whmcs\XmlReader\Exceptions;
+namespace Reneknox\XmlReader\Exceptions;
 
 class FileNotFoundException extends \Exception
 {

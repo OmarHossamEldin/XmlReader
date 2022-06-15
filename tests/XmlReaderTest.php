@@ -2,9 +2,9 @@
 
 namespace Tests;
 
-use Whmcs\XmlReader\Exceptions\NotSupportedFileException;
-use Whmcs\XmlReader\Exceptions\FileNotFoundException;
-use Whmcs\XmlReader\Reader\XmlReader;
+use Reneknox\XmlReader\Exceptions\NotSupportedFileException;
+use Reneknox\XmlReader\Exceptions\FileNotFoundException;
+use Reneknox\XmlReader\Reader\XmlReader;
 use PHPUnit\Framework\TestCase;
 
 class XmlReaderTest extends TestCase

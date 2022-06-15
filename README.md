@@ -5,10 +5,12 @@
 ```php
 <?php
 
- use Reneknox\XmlReader\Reader;
+use Reneknox\XmlReader\Reader;
  
- $file = 'example.xml';
- XmlReader::read($file);
+$file = 'example.xml';
+$xml = XmlReader::read($file);
+
+
 ```
 ## Authors
 - Omar Hossam Eldin Kandil
